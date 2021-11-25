@@ -6,7 +6,7 @@ We apply machine learning techniques to predict solar intensity in a region 48 h
 
 ## Contributors
 - Kushal Juneja
-- Naval K. Shukla
-- Rishi
+- Naval Kumar Shukla
+- Rishi Singhal
 - Udit Narang
 
