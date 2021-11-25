@@ -4,4 +4,9 @@
 
 We apply machine learning techniques to predict solar intensity in a region 48 hrs to the future using local time series weather data.
 
+## Contributors
+- Kushal Juneja
+- Naval K. Shukla
+- Rishi
+- Udit Narang
 
