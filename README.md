@@ -35,6 +35,16 @@ To access the final dataset that we have used in our project, visit : https://dr
 4.) Seaborn<br>
 5.) Scikit-Learn<br>
 
+## Models & Techniques Used
+1.) Linear Regression & its subtypes
+2.) Polynomial Regression
+3.) SVM Regression
+4.) Regression Trees
+5.) Artificial Neural Networks
+6.) Alpha Pruning
+7.) Feature Expansion
+8.) PCA
+
 ## Other Details
 Simply download the datasets from the link shared above, then run the .ipynb files for training & testing on different models. You could also access the models & their features using the pickled models present in the weights/models folders.
 
