@@ -28,3 +28,10 @@ We obtain the sunrise and sunset times for each day from Sunrise-Sunset-API\cite
 ## Other Details
 Simply download the datasets from the link shared above, then run the .ipynb files for training & testing on different models. You could also access the models & their features using the pickled models present in the weights/models folders.
 
+To run the pickled files used the following code snippet:
+
+file = open(PATH, "rb")
+model = pickle.load(f)
+file.close()
+
+
