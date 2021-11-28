@@ -36,14 +36,14 @@ To access the final dataset that we have used in our project, visit : https://dr
 5.) Scikit-Learn<br>
 
 ## Models & Techniques Used
-1.) Linear Regression & its subtypes
-2.) Polynomial Regression
-3.) SVM Regression
-4.) Regression Trees
-5.) Artificial Neural Networks
-6.) Alpha Pruning
-7.) Feature Expansion
-8.) PCA
+1.) Linear Regression & its subtypes<br>
+2.) Polynomial Regression<br>
+3.) SVM Regression<br>
+4.) Regression Trees<br>
+5.) Artificial Neural Networks<br>
+6.) Alpha Pruning<br>
+7.) Feature Expansion<br>
+8.) PCA<br>
 
 ## Other Details
 Simply download the datasets from the link shared above, then run the .ipynb files for training & testing on different models. You could also access the models & their features using the pickled models present in the weights/models folders.
