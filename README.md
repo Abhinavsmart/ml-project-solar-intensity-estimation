@@ -25,3 +25,6 @@ Our dataset contains more than 50,000 distinct observations, each with 16 featur
 
 We obtain the sunrise and sunset times for each day from Sunrise-Sunset-API\cite{sunrise}. Using this, we add a new boolean column 'isDay'.
 
+## Other Details
+Simply download the datasets from the link shared above, then run the .ipynb files for training & testing on different models. You could also access the models & their features using the pickled models present in the weights/models folders.
+
