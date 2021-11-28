@@ -5,10 +5,10 @@
 We apply machine learning techniques to predict solar intensity in a region 48 hrs to the future using local time series weather data.
 
 ## Contributors
-- Kushal Juneja
-- Naval Kumar Shukla
-- Rishi Singhal
-- Udit Narang
+- Kushal Juneja (2019057, kushal19057@iiitd.ac.in)
+- Naval Kumar Shukla (2019065, naval19065@iiitd.ac.in)
+- Rishi Singhal (2019194, rishi19194@iiitd.ac.in)
+- Udit Narang(2019120, udit19120@iiitd.ac.in)
 
 ## Abstract
 Predicting future renewable energy generation is important, since the power grid must use fossil fuel based energy as demand varies. We explore prediction models for solar power generation from NSRDB database using machine learning techniques. We compare multiple regression techniques for generating prediction models.
