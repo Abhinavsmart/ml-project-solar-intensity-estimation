@@ -30,8 +30,8 @@ Simply download the datasets from the link shared above, then run the .ipynb fil
 
 To run the pickled files used the following code snippet:
 
-file = open(PATH, "rb")
-model = pickle.load(f)
-file.close()
+## file = open(PATH, "rb")
+## model = pickle.load(f)
+## file.close()
 
 
