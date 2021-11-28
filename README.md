@@ -29,21 +29,21 @@ We obtain the sunrise and sunset times for each day from Sunrise-Sunset-API\cite
 To access the final dataset that we have used in our project, visit : https://drive.google.com/file/d/18AaOanU9qqKgag7rtMpUm9I4kVXVocPt/view?usp=sharing
 
 ## Libraries Used
-1.) Numpy<br>
-2.) Pandas<br>
-3.) Matplotlib<br>
-4.) Seaborn<br>
-5.) Scikit-Learn<br>
+1. Numpy<br>
+2. Pandas<br>
+3. Matplotlib<br>
+4. Seaborn<br>
+5. Scikit-Learn<br>
 
 ## Models & Techniques Used
-1.) Linear Regression & its subtypes<br>
-2.) Polynomial Regression<br>
-3.) SVM Regression<br>
-4.) Regression Trees<br>
-5.) Artificial Neural Networks<br>
-6.) Alpha Pruning<br>
-7.) Feature Expansion<br>
-8.) PCA<br>
+1. Linear Regression & its subtypes<br>
+2. Polynomial Regression<br>
+3. SVM Regression<br>
+4. Regression Trees<br>
+5. Artificial Neural Networks<br>
+6. Alpha Pruning<br>
+7. Feature Expansion<br>
+8. PCA<br>
 
 ## Other Details
 Simply download the datasets from the link shared above, then run the .ipynb files for training & testing on different models. You could also access the models & their features using the pickled models present in the weights/models folders.
@@ -53,4 +53,13 @@ To run the pickled files used the following code snippet:
 ![image](https://user-images.githubusercontent.com/58341663/143772279-889238f0-9d67-4819-8505-d33eb3a02e15.png)
 
 Note : For further results & analysis of our models, please refer to the final report that we have uploaded.
+
+## Future Work
+<ol>
+<li>Train dense neural networks </li>
+<li>Apply deep learning techniques such as LSTM’s, recurrent neural networks etc.</li>
+<li>Apply clustering techniques </li>
+<li>Extend our predictions to more geographical locations</li>
+</ol>  
+
 
